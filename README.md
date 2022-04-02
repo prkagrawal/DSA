@@ -1,1 +1,1 @@
-Data structure and algorithms practice in python and javascript
+Data structure and algorithms practice in golang and javascript, some are also written in python.
